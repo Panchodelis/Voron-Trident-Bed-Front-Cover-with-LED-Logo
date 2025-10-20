@@ -15,7 +15,8 @@
 | 11 | **M3 T-nuts** | Compatible with 2020 aluminum extrusion | 3 |
 | 12 | **M3 threaded inserts** | Standard Voron brass heat inserts Ø5 mm outer diameter | 8 |
 | 13 | **Wire (24 V rated)** | Red/black, silicone insulated | As needed |
-| 14 | **Power connectors (DC jack)** | 2-conductor 24 V DC jack connectors (**1 male + 1 female**) | 2 |
+| 14 | **Power connectors (DC jack)** | 2-conductor 24 V DC barrel connectors — **1 male + 1 inline female (non-panel type)** | 2 |
+   - The **female DC connector** should be **inline type**, not chassis-mounted, as it hangs freely with the wiring.
 | 15 | **JST connector (for MCU)** | **JST 3-pin** (for fan port on Leviathan or similar board) – use matching type for your MCU port | 1 |
 | 16 | **Cable sleeve or heat shrink** | For neat cable routing | As needed |
 
