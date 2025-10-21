@@ -8,7 +8,7 @@
 
 ## 📦 Download the Models
 
-All STL and STEP files are available on **Printables**:
+All STL files are available on **Printables**:
 
 👉 [🔗 Voron Trident Bed Front Cover with LED Logo – Printables](https://www.printables.com/@Panchodelis)
 
