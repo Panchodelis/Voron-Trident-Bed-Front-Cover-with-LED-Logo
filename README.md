@@ -1,3 +1,5 @@
+![Voron Trident Bed Front Cover](Images/0-VT_bed_front_cover_final.jpeg)
+
 ## 🧠 Features
 - Designed specifically for **Voron Trident 250 mm**.
 - ⚠️⚠️⚠️ Not compatible with other Trident sizes at the moment.
