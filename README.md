@@ -10,7 +10,7 @@
 
 All STL files are available on **Printables**:
 
-👉 [🔗 Voron Trident Bed Front Cover with LED Logo – Printables](https://www.printables.com/@Panchodelis)
+👉 [🔗 Voron Trident Bed Front Cover with LED Logo – Printables]([https://www.printables.com/@Panchodelis](https://www.printables.com/model/1452981-voron-trident-bed-front-cover-with-led-logo)
 
 ## 🧩 Print Settings
 
