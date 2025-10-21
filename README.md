@@ -6,6 +6,12 @@
 - Easy to install and remove.
 - Designed as a concept compatible with **status LEDs** or alternative illuminated logo designs.
 
+## 📦 Download the Models
+
+All STL and STEP files are available on **Printables**:
+
+👉 [🔗 Voron Trident Bed Front Cover with LED Logo – Printables](https://www.printables.com/@Panchodelis)
+
 ## 🧩 Print Settings
 
 This design consists of **seven printed parts**:
