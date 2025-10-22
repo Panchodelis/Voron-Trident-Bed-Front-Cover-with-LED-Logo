@@ -16,13 +16,12 @@
 | 12 | **M3 threaded inserts** | Standard Voron brass heat inserts Ø5 mm outer diameter | 8 |
 | 13 | **Wire (24 V rated)** | Red/black, silicone insulated | As needed |
 | 14 | **Power connectors (DC jack)** | 2-conductor 24 V DC barrel connectors — **1 male + 1 inline female (non-panel type)** | 2 |
-   - The **female DC connector** should be **inline type**, not chassis-mounted, as it hangs freely with the wiring.
 | 15 | **JST connector (for MCU)** | **JST 3-pin** (for fan port on Leviathan or similar board) – use matching type for your MCU port | 1 |
 | 16 | **Cable sleeve or heat shrink** | For neat cable routing | As needed |
 
 ---
 
-💡 **Notes**
+### 💡 Notes
 - The LED channels are designed for **5 mm wide strips**, which **slide into dedicated guide rails** — no adhesive required.  
 - The design allows for easy removal or replacement of LED strips for maintenance.  
 - LED strips are **24 V SMD 2835 red**, compatible with fan ports on the **Leviathan MCU**.  
