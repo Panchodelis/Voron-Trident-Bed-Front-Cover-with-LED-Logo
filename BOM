@@ -29,4 +29,4 @@
 - Power is routed through a **pair of DC jack connectors (male + female)** for quick disconnection.  
 - Ensure the LED circuit is **fused** or connected through a **switched 24 V rail**.  
 - The **rear cover is optional** — light bleed through the convection vents will depend on LED brightness.  
-  For reference, the LEDs in the reference build run at **~10 % intensity** from a **24 V fan port**, resulting in minimal light leakage and balanced illumination.
+For reference, the LEDs in the reference build run at **~10 % intensity** from a **24 V fan port**, resulting in minimal light leakage and balanced illumination.
