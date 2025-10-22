@@ -3,7 +3,6 @@
 ## 🧠 Features
 - Designed specifically for **Voron Trident 250 mm**.
 - ⚠️⚠️⚠️ Not compatible with other Trident sizes at the moment.
-- Improves **bed temperature stability** by reducing front air drafts.
 - Illuminated "Trident" logo using two internal LED strips.
 - Easy to install and remove.
 - Designed as a concept compatible with **status LEDs** or alternative illuminated logo designs.
