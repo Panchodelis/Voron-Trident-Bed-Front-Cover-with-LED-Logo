@@ -6,6 +6,7 @@
 - Illuminated "Trident" logo using two internal LED strips.
 - Easy to install and remove.
 - Designed as a concept compatible with **status LEDs** or alternative illuminated logo designs.
+- Can slightly help maintain **bed temperature stability** when printing with **open doors** or in **cooler environments**.
 
 ## 📦 Download the Models
 
