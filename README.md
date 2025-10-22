@@ -69,7 +69,7 @@ This gap allows a **column of cool air** to rise naturally between both surfaces
 
 ---
 
-### 🛠️ Assembly Tolerances
+### 🛠️ Slicing tolerances
 
 - **Main panel slot tolerance:** +0.05 mm  
 - **LED diffuser contour tolerance:** −0.10 mm  
