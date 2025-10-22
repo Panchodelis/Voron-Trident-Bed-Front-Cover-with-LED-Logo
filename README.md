@@ -103,7 +103,7 @@ After printing, minor cleanup of the letters may be needed to remove support res
 ### 💡 Notes
 - The LED channels are designed for **5 mm wide strips**, which **slide into dedicated guide rails** — no adhesive required.  
 - The design allows for easy removal or replacement of LED strips for maintenance.  
-- LED strips are **24 V SMD 2835 red**, compatible with fan ports on the **Leviathan MCU**.  
+- LED strips are **24 V SMD 2835 red**, compatible with fan ports on the **MCU Board**.  
 - If your board provides **5 V** instead of 24 V, use a **5 V LED strip** of the same 5 mm width.  
 - Power is routed through a **pair of DC jack connectors (male + female)** for quick disconnection.  
 - Ensure the LED circuit is **fused** or connected through a **switched 24 V rail**.  
