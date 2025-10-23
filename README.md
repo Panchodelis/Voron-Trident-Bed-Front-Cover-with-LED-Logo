@@ -30,13 +30,13 @@ This design consists of **seven printed parts**:
 
 ### ⚙️ Materials
 
-All parts except the diffuser should be printed in **ASA-CF** (carbon fiber–reinforced ASA) to ensure high heat resistance and dimensional stability.  
-ASA-CF softens around **105–110 °C**, making it suitable for components close to the heated bed.  
+All parts except the diffuser should be printed in **ASA-CF** or **ABS-GF** ensure high heat resistance and dimensional stability.  
+ASA-CF softens around **110 °C**, making it suitable for components close to the heated bed.  
 It also offers a premium matte finish and reduced warping compared to standard ASA or ABS.
 
 The **LED diffuser** is printed in **translucent PETG**, which provides smooth light transmission and is easy to post-process.
 
-Other materials such as **ABS-GF**, **ASA**, **ABS**, or **PETG-CF** can be considered as alternatives depending on availability and enclosure temperature control.  
+Other materials such as **ASA**, **ABS**, or **PETG-CF** can be considered as alternatives depending on availability and enclosure temperature control.  
 Before selecting an alternative, always check the **glass transition temperature (Tg)** of the material and keep a **safety margin below your normal bed temperature** to prevent softening or deformation during operation.
 
 There is a **minimum clearance of approximately 3.5 mm** between the aluminum bed plate and the front cover.  
