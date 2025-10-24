@@ -2,11 +2,11 @@
 
 ## 🧠 Features
 - Designed specifically for **Voron Trident 250 mm**.
-- ⚠️⚠️⚠️ Not compatible with other Trident sizes at the moment.
 - Illuminated "Trident" logo using two internal LED strips.
 - Easy to install and remove.
-- Designed as a concept compatible with **status LEDs** or alternative illuminated logo designs.
 - Can slightly help maintain **bed temperature stability** when printing with **open doors** or in **cooler environments**.
+- ⚠️⚠️⚠️ Not compatible with other Trident sizes at the moment.
+- ⚠️⚠️⚠️ This design is made for an LDO Voron Trident 250 mm kit with a 10 mm thick aluminum bed plate. I’ll be uploading an adaptation for 8 mm plates soon.
 
 ## 📦 Download the Models
 
@@ -46,7 +46,7 @@ This gap allows a **column of cool air** to rise naturally between both surfaces
 
 | Setting | Recommended Value |
 |----------|-------------------|
-| Material | ASA-CF for all parts except LED diffuser (PETG translucent) |
+| Material | ASA-CF/ABS-GF/ASA/ABS/PETG-CF for all parts except LED diffuser (PETG translucent) |
 | Layer Height | Optional (depends on desired finish) |
 | Infill | 20–40 % |
 | Supports | Required (see notes below) |
