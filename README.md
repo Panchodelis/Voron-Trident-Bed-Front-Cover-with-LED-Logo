@@ -34,6 +34,9 @@ You can modify both the **front cover** and **diffuser** to include your own log
 If you prefer a clean front without any logo or lighting, you can simply print **parts #1 (Front Cover)** and **#4 (Front Cover Holder)** available on Printables.  
 These two parts form a solid decorative cover without the LED system.
 
+💡 **Recommendation for remixers:**  
+If you plan to create your own illuminated design, it’s recommended to review the **CAD file of the logo version** first.  
+Understanding the internal structure and the LED diffuser concept will likely save you time and failed test prints.
 ---
 
 ## 🧩 Print Settings
