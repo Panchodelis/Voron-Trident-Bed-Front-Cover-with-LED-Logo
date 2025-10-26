@@ -15,6 +15,27 @@ All STL files are available on **Printables**:
 
 👉 [🔗 Voron Trident Bed Front Cover with LED Logo – Printables]([https://www.printables.com/@Panchodelis](https://www.printables.com/model/1452981-voron-trident-bed-front-cover-with-led-logo)
 
+---
+
+## 🧩 Alternate Version — Blank Front for Custom Designs
+
+In addition to the illuminated “Triden” logo version, this project also includes a **blank variant** of the front cover assembly.  
+This version contains **all structural and mounting parts**, maintaining the same LED backlighting concept with diffuser integration — but **without any logo or cutouts**.
+
+It is intended as a **template for customized designs**, allowing you to adapt the front cover to feature:
+- A different illuminated logo  
+- A status light bar  
+- Or any other LED-based front design you’d like to experiment with  
+
+The included **blank LED diffuser** is flat, with no raised lettering.  
+You can modify both the **front cover** and **diffuser** to include your own logo or pattern — simply extrude your design into the diffuser and cut matching openings in the front cover.
+
+🧠 **Tip:**  
+If you prefer a clean front without any logo or lighting, you can simply print **parts #1 (Front Cover)** and **#4 (Front Cover Holder)** available on Printables.  
+These two parts form a solid decorative cover without the LED system.
+
+---
+
 ## 🧩 Print Settings
 
 This design consists of **seven printed parts**:
