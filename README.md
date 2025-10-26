@@ -6,7 +6,8 @@
 - Easy to install and remove.
 - Can slightly help maintain **bed temperature stability** when printing with **open doors** or in **cooler environments**.
 - ⚠️⚠️⚠️ Not compatible with other Trident sizes at the moment.
-- ⚠️⚠️⚠️ This design is made for an LDO Voron Trident 250 mm kit with a 10 mm thick aluminum bed plate. I’ll be uploading an adaptation for 8 mm plates soon.
+- ⚠️⚠️⚠️ This design is made for an LDO Voron Trident 250 mm kit with a 10 mm thick aluminum bed plate.
+  Added 8 mm aluminum bed plate version (not tested, I don’t have this bed version, feedback is appreciated if anyone tests it)
 
 ## 📦 Download the Models
 
