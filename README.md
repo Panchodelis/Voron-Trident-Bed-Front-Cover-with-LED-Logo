@@ -1,6 +1,5 @@
 ![Voron Trident Bed Front Cover](Images/0.0_Front_Cover_Voron_Trident_250mm.jpg)
 
-
 ## 🧠 Features
 - Illuminated "Trident" logo using two internal LED strips.
 - Easy to install and remove.
