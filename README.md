@@ -1,4 +1,4 @@
-![Voron Trident Bed Front Cover](https://raw.githubusercontent.com/Panchodelis/Voron-Trident-Bed-Front-Cover-with-LED-Logo/main/Images/0.0_Front_Cover_Voron_Trident_250mm.jpg)
+![Voron Trident Bed Front Cover](https://raw.githubusercontent.com/Panchodelis/Voron-Trident-Bed-Front-Cover-with-LED-Logo/main/Images/0.0_Front_Cover_Voron_Trident_250mm.jpeg)
 
 
 ## 🧠 Features
