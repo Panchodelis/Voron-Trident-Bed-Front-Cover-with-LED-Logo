@@ -1,6 +1,4 @@
-<img src="Images/0.0_Front_Cover_Voron_Trident_250mm.jpg" alt="Voron Trident Bed Front Cover" width="900">
-
-
+![Voron Trident Bed Front Cover](Images/0.0_Front_Cover_Voron_Trident_250mm.jpg)
 
 ## 🧠 Features
 - Illuminated "Trident" logo using two internal LED strips.
