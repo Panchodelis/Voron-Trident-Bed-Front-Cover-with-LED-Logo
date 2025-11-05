@@ -9,11 +9,15 @@
   Other configurations (e.g., 8 mm plate or 300 mm machines) are untested.  
   I will update compatibility as users report results — feedback appreciated!
 
- Tested Configurations:
--250mm with 10mm plate bed  ✅
--250mm with 8mm plate bed   ❓
--300mm with 10mm plate bed  ❓
--300mm with 8mm plate bed   ❓
+## ✅ Tested Configurations
+
+| Configuration | Status | Notes |
+|--------------|:------:|-------|
+| Trident 250 mm — 10 mm plate | ✅ | Tested and confirmed |
+| Trident 250 mm — 8 mm plate | ❓ | Awaiting community testing |
+| Trident 300 mm — 10 mm plate | ❓ | Awaiting community testing |
+| Trident 300 mm — 8 mm plate | ❓ | Awaiting community testing |
+
 
 ## 📦 Download the Models
 
