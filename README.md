@@ -5,11 +5,15 @@
 - Illuminated "Trident" logo using two internal LED strips.
 - Easy to install and remove.
 - Can slightly help maintain **bed temperature stability** when printing with **open doors** or in **cooler environments**.
-- ⚠️⚠️⚠️ Not compatible with other Trident sizes at the moment.
-- ⚠️⚠️⚠️ This design is made for an LDO Voron Trident 250 mm kit with a 10 mm thick aluminum bed plate.
-  Added 8 mm aluminum bed plate version (not tested, I don’t have this bed version, feedback is appreciated if anyone tests it)
-- ⚠️⚠️⚠️ Designed specifically for a Voron Trident 250 mm equipped with a 10 mm aluminum build plate from an LDO kit.
-Other configurations such as 8 mm build plates or 300 mm build volume machines have not been tested yet. As other users try it and share feedback, I will update the compatibility list and mark confirmed working configurations.
+- ⚠️⚠️⚠️ Designed for a Voron Trident 250 mm with a 10 mm aluminum build plate (LDO kit).  
+  Other configurations (e.g., 8 mm plate or 300 mm machines) are untested.  
+  I will update compatibility as users report results — feedback appreciated!
+
+ Tested Configurations:
+-250mm with 10mm plate bed  ✅
+-250mm with 8mm plate bed   ❓
+-300mm with 10mm plate bed  ❓
+-300mm with 8mm plate bed   ❓
 
 ## 📦 Download the Models
 
