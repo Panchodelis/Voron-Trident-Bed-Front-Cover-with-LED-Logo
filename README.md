@@ -6,7 +6,7 @@
 - Easy to install and remove.
 - Can slightly help maintain **bed temperature stability** when printing with **open doors** or in **cooler environments**.
 - ⚠️⚠️⚠️ Designed for a Voron Trident 250 mm with a 10 mm aluminum build plate (LDO kit).  
-  Other configurations (e.g., 8 mm plate or 300 mm machines) are untested.  
+  Other configurations (e.g., 8 mm plate or 300 mm and 350mm machines) are untested.  
   I will update compatibility as users report results — feedback appreciated!
 
 ## ✅ Tested Configurations
@@ -17,6 +17,8 @@
 | Trident 250 mm — 8 mm plate | ❓ | Awaiting community testing |
 | Trident 300 mm — 10 mm plate | ❓ | Awaiting community testing |
 | Trident 300 mm — 8 mm plate | ❓ | Awaiting community testing |
+| Trident 350 mm — 10 mm plate | ❓ | Awaiting community testing |
+| Trident 350 mm — 8 mm plate | ❓ | Awaiting community testing |
 
 
 ## 📦 Download the Models
